@@ -36,8 +36,8 @@ form input[type=text]{
 }
 
 form select{
-    width: 30%;
-    height: 20px;
+    width: 60%;
+    height: 23px;
     color: #666;
     font-family: sans-serif;
     outline: none;
